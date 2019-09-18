@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insight/StartViewController.swift"
+            timestampString = "585701032.5782599"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "StartViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insight.StartViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Insight.StartViewController"
+                  moduleName = "Insight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac78/Desktop/Insight/Insight/StartViewController.swift"
+                  timestampString = "584386995.679732"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insight.StartViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Insight.StartViewController"
+                  moduleName = "Insight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac78/Desktop/Insight/Insight/StartViewController.swift"
+                  timestampString = "584386995.682357"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "361">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insight.StartViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Insight.StartViewController&gt;"
+                  moduleName = "Insight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac78/Desktop/Insight/Insight/StartViewController.swift"
+                  timestampString = "584386995.684211"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insight.StartViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Insight.StartViewController&gt;"
+                  moduleName = "Insight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac78/Desktop/Insight/Insight/StartViewController.swift"
+                  timestampString = "584386995.6864541"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "201">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insight.StartViewController.__deallocating_deinit"
+                  moduleName = "Insight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hgpmac78/Desktop/Insight/Insight/StartViewController.swift"
+                  timestampString = "584386995.688984"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insight/StartViewController.swift"
+            timestampString = "585701032.578374"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "StartViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
